@@ -2,3 +2,4 @@ make a change
 cold and dry, but everything is fine. 
 this is third sentence
 fourth line
+This is a line added by pink person.
